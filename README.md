@@ -1,2 +1,2 @@
-# Generative-AI-with-Retrieval-Augmented-Generation
-Generative AI with Retrieval-Augmented Generation published by Packt
+# Unlocking Data with Generative AI and RAG
+Unlocking Data with Generative AI and RAG published by Packt
