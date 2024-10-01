@@ -18,7 +18,7 @@ This book covers the following exciting features:
 * Overcome scalability, data quality, and integration issues
 * Discover strategies for optimizing data retrieval and AI interpretability
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1835887910) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/Unlocking-Data-Generative-RAG-integrating/dp/B0DCZF44C9/ref=sr_1_1?dib=eyJ2IjoiMSJ9.U9peZXxfVxNiWtPCsAKuuFMbe_-pWpwtVfBYq2VzJ-J5118xLYkW7zVwBIJKCbuX.ztXRP2BLwxbN9uLZibJlmhr0fv2X_P3M1K2ebZinMMI&dib_tag=se&keywords=Unlocking-Data-with-Generative-AI-and-RAG&qid=1727804473&s=books&sr=1-1) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
