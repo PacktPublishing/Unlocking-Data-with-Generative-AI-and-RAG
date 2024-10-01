@@ -48,7 +48,7 @@ With the following software and hardware list you can run all code files present
 ### Related products <Other books you may enjoy>
 * Building Data-Driven Applications with LlamaIndex [[Packt]](https://www.packtpub.com/en-in/product/building-data-driven-applications-with-llamaindex-9781835089507) [[Amazon]](https://www.amazon.com/Building-Data-Driven-Applications-LlamaIndex-retrieval-augmented/dp/183508950X)
 
-* OpenAI API Cookbook [[Packt]](https://www.packtpub.com/en-in/product/openai-api-cookbook-9781805121350) [[Amazon]](https://www.packtpub.com/en-in/product/openai-api-cookbook-9781805121350)
+* OpenAI API Cookbook [[Packt]](https://www.packtpub.com/en-in/product/openai-api-cookbook-9781805121350) [[Amazon]](https://www.amazon.com/OpenAI-API-Cookbook-intelligent-applications/dp/1805121359)
 
 ## Get to Know the Author
 **Keith Bourne** is a Senior Generative AI Data Scientist at Johnson & Johnson, leveraging his decade of experience in machine learning. With an MBA from Babson College and a Master of Applied Data Science from the University of Michigan, Keith has made significant contributions to healthcare innovation through his expertise in generative AI, particularly in developing a sophisticated generative AI platform incorporating Retrieval-Augmented Generation (RAG) and other advanced techniques. Keith has worked with a diverse set of clients including University of Michigan Healthcare, NFL, NOAA, Weather Channel, Becton Dickinson, Toyota, and Little Caesars.
