@@ -45,6 +45,10 @@ With the following software and hardware list you can run all code files present
 |  		   1-14|   					OpenAI API		                                            			  | Windows, Mac OS X, and Linux (Any) |
 |  		   1-14|   					Jupyter notebooks                                            			  | Windows, Mac OS X, and Linux (Any) |
 
+## Errata
+
+* Page 11 (Paragraph 1, line 2): **OK, while you get out your chalkboard to draw a Vinn diagram,** _should be_ **OK, while you get out your chalkboard to draw a Venn diagram,**
+
 ### Related products <Other books you may enjoy>
 * Building Data-Driven Applications with LlamaIndex [[Packt]](https://www.packtpub.com/en-in/product/building-data-driven-applications-with-llamaindex-9781835089507) [[Amazon]](https://www.amazon.com/Building-Data-Driven-Applications-LlamaIndex-retrieval-augmented/dp/183508950X)
 
